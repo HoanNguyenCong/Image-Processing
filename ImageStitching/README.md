@@ -28,7 +28,7 @@
 - From these good matches, we can compute Homogenous transform matrix
 -  https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html
 
-![SIFT Algorithm](https://www.researchgate.net/profile/Hiroshi-Kawaguchi/publication/220242450/figure/fig4/AS:669020810387456@1536518399011/Original-SIFT-algorithm-flow.png)
+![SIFT Algorithm](https://file.techscience.com/ueditor/files/iasc/TSP_IASC-31-2/TSP_IASC_19654/TSP_IASC_19654/Images/IASC_19654-fig-2.png/mobile_webp)
 
 ## 2.2 Image pyramid
 - [Image pyramid - opencv](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html)
